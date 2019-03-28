@@ -6,20 +6,20 @@ _G.Config={
     -- the waykichain contract stardard, if you do not know the waykichain stardard, please do not change it.
     standard = "WRC20",
 
-    -- the contract ownder address, please write the right address.
-    owner = "wLKf2NqwtHk3BfzK5wMDfbKYN1SC3weyR4",
+    -- the contract ownder address, please update it with the actual contract owner address.
+    owner = "wMHkGQKHf4CXdZRRoez8b9YgYnPzGxbs3j",
 
-    -- the contract name
+    -- the contract name, please update it with the actual contract name.
     name = "WRC20N",
 
-    -- the contract symbol
+    -- the contract symbol, please update it with the actual contract symbol.
     symbol = "WRC20S",
 
-    -- the number of decimals the token uses - e.g. 8,
+    -- the number of decimals the token uses must be 8.
     -- means to divide the token amount by 100000000 to get its user representation.
     decimals = 8,
 
-    -- the contract coin total supply
+    -- the contract coin total supply, please update it with the actual contract symbol.
     totalSupply = 210000000 * 100000000
 }
 
